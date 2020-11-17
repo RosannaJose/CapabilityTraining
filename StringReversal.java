@@ -17,6 +17,7 @@ public class StringReversal {
 		for (int i = (charArray.length) - 1; i >= 0; i--) {
 			builder.append(charArray[i]);
 		}
+		
 		System.out.println("Reversed string : " + builder.toString());
 		
 		//recursion logic pending
