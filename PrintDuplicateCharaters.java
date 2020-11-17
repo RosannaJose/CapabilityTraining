@@ -30,6 +30,5 @@ public class PrintDuplicateCharaters {
 				System.out.println(i.getKey());
 			}
 		}
-
 	}
 }
